@@ -44,7 +44,7 @@ The operating system would become unstable and insecure.
 
 Instead, Windows provides a controlled interface.
 
-![[Pasted image 20260629171822.png]]
+![](images/Screenshot.png)
 
 Whenever an application needs the operating system to perform an action, it requests that service through the Windows API.
 
