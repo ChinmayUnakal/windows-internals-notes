@@ -37,15 +37,7 @@ Every application you launch creates one or more processes.
 
 Example:
 
-```text
-notepad.exe
-        │
-        ▼
-Windows creates
-        │
-        ▼
-Notepad Process
-```
+![](images/SS5.png)
 
 If you open Notepad three times, Windows creates **three separate processes**, each with its own memory and resources.
 
@@ -110,15 +102,7 @@ When a process is created, Windows maps the executable into the process's virtua
 
 Example:
 
-```text
-notepad.exe
-        │
-        ▼
-Mapped into Memory
-        │
-        ▼
-Running Process
-```
+![](images/SS6.png)
 
 ---
 
@@ -178,13 +162,11 @@ Windows uses the PID to identify a running process.
 
 Example:
 
-```text
 explorer.exe
 PID : 4280
 
 notepad.exe
 PID : 9524
-```
 
 Process IDs remain unique only while a process is running. After a process exits, its PID may later be reused.
 
@@ -211,21 +193,7 @@ Without a thread, a process cannot perform any work.
 
 # Process Architecture
 
-```text
-+-----------------------------------------+
-|                Process                  |
-|-----------------------------------------|
-| Executable Image                        |
-| Virtual Address Space                   |
-| Security Token                          |
-| Handle Table                            |
-| Process ID (PID)                        |
-| One or More Threads                     |
-+-----------------------------------------+
-                │
-                ▼
-         Windows Kernel
-```
+![](images/SS7.png)
 
 ---
 
@@ -298,15 +266,7 @@ Most processes are created by another process.
 
 Example:
 
-```text
-Explorer.exe
-        │
-        ▼
-cmd.exe
-        │
-        ▼
-notepad.exe
-```
+![](images/SS8.png)
 
 Here:
 

@@ -105,35 +105,13 @@ Instead of exposing only functions, Windows began exposing objects through inter
 
 Example:
 
-```
-Application
-
-      │
-
-      ▼
-
- Interface
-
-      │
-
-      ▼
-
- COM Object
-```
+![](images/SS2.png)
 
 Originally COM was created to support communication between Microsoft Office applications.
 
 For example:
 
-```
-Microsoft Word
-
-      │
-
-      ▼
-
- Embedded Excel Spreadsheet
-```
+![](images/SS3.png)
 
 This capability became known as **OLE (Object Linking and Embedding).**
 
@@ -199,27 +177,7 @@ An important point:
 
 **WinRT is built on top of COM.**
 
-```
- Application
-
-     │
-
-     ▼
-
-Windows Runtime
-
-     │
-
-     ▼
-
-    COM
-
-     │
-
-     ▼
-
-  Windows
-```
+![](images/SS4.png)
 
 Desktop applications can still use many WinRT APIs.
 
