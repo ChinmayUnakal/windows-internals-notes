@@ -44,18 +44,7 @@ The operating system would become unstable and insecure.
 
 Instead, Windows provides a controlled interface.
 
-```
-Application
-        │
-        ▼
- Windows API
-        │
-        ▼
- Windows Kernel
-        │
-        ▼
- Hardware
-```
+![[Pasted image 20260629171822.png]]
 
 Whenever an application needs the operating system to perform an action, it requests that service through the Windows API.
 
