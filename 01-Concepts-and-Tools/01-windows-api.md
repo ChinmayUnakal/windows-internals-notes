@@ -1,10 +1,5 @@
 # Windows API
 
-> **Prerequisites**
->
-> - Basic C Programming
-> - User Mode vs Kernel Mode
-> - Windows Architecture (Recommended)
 
 ---
 

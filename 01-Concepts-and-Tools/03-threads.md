@@ -1,11 +1,5 @@
 # Threads
 
-> **Prerequisites**
->
-> - Processes
-> - Windows API
-
-
 ---
 
 # What is a Thread?

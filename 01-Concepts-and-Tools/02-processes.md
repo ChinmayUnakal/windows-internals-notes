@@ -1,13 +1,5 @@
 # Processes
 
-> **Prerequisites**
-> 
-> - Windows API
->     
-> - User Mode vs Kernel Mode
->     
-> - Virtual Memory (Recommended)
->     
 
 ---
 
