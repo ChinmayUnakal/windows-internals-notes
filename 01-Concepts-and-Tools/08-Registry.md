@@ -278,6 +278,3 @@ Many EDR products generate alerts when sensitive registry keys are modified.
 
 ---
 
-# References
-
-- *Windows Internals, Part 1 (7th Edition)* — Mark Russinovich, David Solomon, Alex Ionescu, Pavel Yosifovich

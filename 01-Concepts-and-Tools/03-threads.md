@@ -309,6 +309,4 @@ Thread activity is often correlated with process creation and memory operations 
 
 ---
 
-# References
 
-- *Windows Internals, Part 1 (7th Edition)* — Mark Russinovich, David Solomon, Alex Ionescu, Pavel Yosifovich

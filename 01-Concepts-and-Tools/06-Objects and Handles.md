@@ -352,6 +352,4 @@ Many EDR solutions correlate handle activity with process and memory events to i
 
 ---
 
-# References
 
-- *Windows Internals, Part 1 (7th Edition)* — Mark Russinovich, David Solomon, Alex Ionescu, Pavel Yosifovich

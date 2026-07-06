@@ -358,6 +358,3 @@ Modern Windows protections such as KMCS, PatchGuard, Hypervisor-Protected Code I
 
 ---
 
-# References
-
-- *Windows Internals, Part 1 (7th Edition)* — Mark Russinovich, David Solomon, Alex Ionescu, Pavel Yosifovich

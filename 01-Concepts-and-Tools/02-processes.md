@@ -398,6 +398,4 @@ Tools such as Sysmon, Microsoft Defender for Endpoint, and EDR platforms rely he
 
 ---
 
-# References
 
-- _Windows Internals, Part 1 (7th Edition)_ – Mark Russinovich, David Solomon, Alex Ionescu, Pavel Yosifovich
