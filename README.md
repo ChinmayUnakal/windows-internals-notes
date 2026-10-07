@@ -21,10 +21,6 @@ These notes are written as part of my personal learning process. Every topic is 
 Some of the resources used while studying include:
 
 * *Windows Internals* by Mark Russinovich, David Solomon, Alex Ionescu, and Pavel Yosifovich
-* Microsoft Learn
-* Microsoft Documentation
-* Windows SDK Documentation
-* Sysinternals Documentation
 
 ---
 
